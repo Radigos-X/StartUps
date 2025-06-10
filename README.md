@@ -136,5 +136,5 @@ pip install -r requirements.txt
 
 Если у вас есть вопросы, пожалуйста, свяжитесь со мной:
 
-Email: i@outis-x.ru
-GitHub: [github.com/Radigos-X](https://github.com/Radigos-X)
+- Email: i@outis-x.ru
+- GitHub: [github.com/Radigos-X](https://github.com/Radigos-X)
